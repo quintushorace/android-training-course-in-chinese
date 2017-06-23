@@ -12,6 +12,7 @@ Google Android团队在2012年的时候开设了**Android Training**板块 - <ht
 请读者点击Star进行关注并支持！
 
 ## 在线阅读
+**<https://quintushorace.github.io/android-training-course-in-chinese/>**
 
 **<http://hukai.me/android-training-course-in-chinese/index.html>**
 
